@@ -1,4 +1,0 @@
-{
-   "mongoURI": "mongodb+srv://bgaato:Work_2020@portfolio-ceyoc.mongodb.net/portfolio?retryWrites=true&w=majority",
-   "jwtSecret": "myportofolio"
- }
